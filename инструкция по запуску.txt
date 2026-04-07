@@ -1,0 +1,5 @@
+1. Получить токен у @botfather
+2. pip install -r requirements.txt
+3. export BOT_TOKEN="твой_токен"
+4. Запустить python all.py
+   или python3 all.py , зависит где запускаешь
